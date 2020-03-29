@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\gittest\gittest\bin\Debug\gittest.exe.config
+C:\Users\ASUS\source\repos\gittest\gittest\bin\Debug\gittest.exe
+C:\Users\ASUS\source\repos\gittest\gittest\bin\Debug\gittest.pdb
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest_MarkupCompile.cache
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest_MarkupCompile.lref
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.g.resources
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.Properties.Resources.resources
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.exe
+C:\Users\ASUS\source\repos\gittest\gittest\obj\Debug\gittest.pdb
