@@ -19,5 +19,6 @@
         </Grid>
         <CheckBox Content="helllllllo" Margin="0 20 0 0" Padding="2" />
         <CheckBox Content="seeeeeee you" />
+        <CheckBox Content=" another test " />
     </StackPanel>
 </Window>
